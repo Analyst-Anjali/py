@@ -3,6 +3,8 @@ w= 10
 print("area of ractangle is", l*w)
 
 
+#------------------------------------
+
 num1= 42
 num2=56
 print(num1+num2)
